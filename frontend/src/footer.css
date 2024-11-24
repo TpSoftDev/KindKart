@@ -1,0 +1,15 @@
+footer {
+          margin-top: 50px;
+          text-align: center;
+        }
+        
+        footer p {
+          font-size: 0.9rem;
+          color: #888;
+        }
+        
+        footer h3 {
+          font-size: 1.2rem;
+          color: #32a852; /* Green text */
+        }
+        
