@@ -2,16 +2,6 @@
 
 Welcome to **KindCart**, a web application designed to connect individuals with local food pantries using their zipcode. Our mission is to make it easier for people to find and access food resources in their community, promoting food security and community support.
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Available Scripts](#available-scripts)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About the Project
 
 **KindCart** is a user-friendly platform that allows users to quickly locate food pantries in their area. By simply entering a zipcode, users can access a list of nearby food resources, helping to bridge the gap between those in need and available community support. The application is built with a modern tech stack, ensuring a smooth and responsive user experience.

@@ -1,0 +1,22 @@
+KindKart/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── header/
+│   │   │   │   ├── header.js
+│   │   │   │   └── header.css
+│   │   │   ├── search/
+│   │   │   │   ├── search.js
+│   │   │   │   └── search.css
+│   │   │   └── footer/
+│   │   │       ├── footer.js
+│   │   │       └── footer.css
+│   │   ├── styles/
+│   │   │   ├── App.css
+│   │   │   └── index.css
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── public/
+│   ├── package.json
+│   └── .gitignore
+└── backend/
